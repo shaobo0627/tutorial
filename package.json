@@ -1,0 +1,23 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "This readme will help you get accustomed to the tools that we use at ScottyLabs. Our applications primarily are built with nodejs and python, and we use git to collaborate together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaobo0627/tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaobo0627/tutorial/issues"
+  },
+  "homepage": "https://github.com/shaobo0627/tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-remarkable": "^1.0.0"
+  }
+}
